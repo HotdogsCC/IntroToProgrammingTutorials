@@ -1,0 +1,1 @@
+As both Week 2 and Week 3 took place over the same day, I forgot to save my progess at the end of the Week 2 content tutorial. As such, the unity project "Week2Tutorial" contains the work of both Week 2 and 3.
